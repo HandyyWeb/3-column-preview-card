@@ -7,7 +7,7 @@ Hello, here is my fiifth project : A 3 column preview card !
 ![Capture d’écran (227)](https://user-images.githubusercontent.com/121683423/215761873-0ff80636-d2b9-476c-af87-488d6be6ded3.png)
 
 
-Solution URL :
+Solution URL : https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub
 
 Live Site URL : [(https://handyyweb.github.io/3-column-preview-card/)](https://handyyweb.github.io/3-column-preview-card/)
 
@@ -39,6 +39,7 @@ https://developer.mozilla.org/fr/docs/Web/CSS/Media_Queries/Using_media_queries 
 <ins>Andy</ins>:
   
 Frontend Mentor : [@HandyyWeb] (https://www.frontendmentor.io/profile/HandyyWeb)
+
 Sololearn : https://www.sololearn.com/profile/27368692
 
 That will be all for me, see you a next time and have a great day/night ! 

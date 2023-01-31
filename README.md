@@ -1,7 +1,7 @@
 # 3-column-preview-card
 Hello, here is my fiifth project : A 3 column preview card !
 
-<ins>Screenshots<ins>
+<ins>Screenshots :<ins>
   
 ![Capture d’écran (228)](https://user-images.githubusercontent.com/121683423/215761824-74053438-cc99-45f3-a6ba-b04f31018a33.png)
 ![Capture d’écran (227)](https://user-images.githubusercontent.com/121683423/215761873-0ff80636-d2b9-476c-af87-488d6be6ded3.png)
@@ -35,6 +35,7 @@ As I said, it was just a quick challenge to test my knowledge of css codes, in m
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ : A complete guide on Flexbox, what are the property for both parent and child component, very handy and useful to understand this aspect of CSS.
 
 https://developer.mozilla.org/fr/docs/Web/CSS/Media_Queries/Using_media_queries : If you want to understand how to use media queries, this is a good resource to check out!
+  
 <ins>Andy</ins>:
   
 Frontend Mentor : [@HandyyWeb] (https://www.frontendmentor.io/profile/HandyyWeb)
